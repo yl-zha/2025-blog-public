@@ -44,7 +44,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/ylzhaqiang",
+			"value": "https://github.com/yl-zha",
 			"label": "",
 			"order": 1
 		},
@@ -66,7 +66,7 @@
 		{
 			"id": "button-1767877834890",
 			"type": "link",
-			"value": "https://lucky.221107.xyz",
+			"value": "https://lucky.221107.xyz/ylcloud",
 			"label": "lucky",
 			"order": 4,
 			"icon": "/images/Lucky.png"
@@ -82,7 +82,7 @@
 		{
 			"id": "button-1777196650498",
 			"type": "x",
-			"value": "https://web.724782.xyz:1977",
+			"value": "https://www.724782.xyz:1977",
 			"icon": "",
 			"order": 6,
 			"label": ""
@@ -90,7 +90,7 @@
 	],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
-	"wecomWebhookUrl": "",
+	"wecomWebhookUrl": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=c8c4336c-9ba4-470a-a846-490fc75c7031",
 	"ncPhoneNumber": "",
 	"isCachePem": true,
 	"hideEditButton": false,
