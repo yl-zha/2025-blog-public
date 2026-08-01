@@ -44,10 +44,10 @@
 		"stars": 3
 	},
 	{
-		"name": "WebTop",
-		"logo": "/images/share/Ubuntu--Ubuntu--ubuntu.com.png",
-		"url": "https://web.724782.xyz:1977",
-		"internalUrl": "",
+		"name": "Hermes",
+		"logo": "/images/share/logo.png",
+		"url": "https://hermes.724782.xyz:1977",
+		"internalUrl": "http://192.168.8.5:9119",
 		"description": "",
 		"tags": [
 			"Nas App"
@@ -70,6 +70,17 @@
 		"logo": "/images/share/lx.svg",
 		"url": "https://lxmusic.724782.xyz:1977",
 		"internalUrl": "http://192.168.8.5:9527",
+		"description": "",
+		"tags": [
+			"Nas App"
+		],
+		"stars": 3
+	},
+	{
+		"name": "混元太极",
+		"logo": "/images/share/taiji.jpg",
+		"url": "http://724782.xyz:18800/webui",
+		"internalUrl": "http://192.168.8.5:8801/webui",
 		"description": "",
 		"tags": [
 			"Nas App"
