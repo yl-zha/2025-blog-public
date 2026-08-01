@@ -81,9 +81,9 @@
 		},
 		{
 			"id": "button-1777196650498",
-			"type": "x",
-			"value": "https://www.724782.xyz:1977",
-			"icon": "",
+			"type": "link",
+			"value": "https://hermes.724782.xyz:1977",
+			"icon": "/images/share/logo.png",
 			"order": 6,
 			"label": ""
 		}
