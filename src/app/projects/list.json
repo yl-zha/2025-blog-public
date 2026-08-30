@@ -2,7 +2,7 @@
 	{
 		"name": "Letts",
 		"year": 2026,
-		"image": "blob:https://www.221107.xyz/85e92990-aa38-4a97-93cf-16b5b9ae1a8a",
+		"image": "https://www.221107.xyz/images/share/Letts.png",
 		"url": "https://tts.724782.xyz:1977",
 		"description": "docker版的tts,开发于2026年",
 		"tags": [
@@ -12,7 +12,7 @@
 	{
 		"name": "混元",
 		"year": 2026,
-		"image": "blob:https://www.221107.xyz/8be31e2f-acf8-4a3a-8102-2db59a449a34",
+		"image": "https://www.221107.xyz/images/share/hunyuan (2).ico",
 		"url": "https://hunyuan.724782.xyz:1977",
 		"description": "AI统一网关，开发于2026年",
 		"tags": [
