@@ -1,72 +1,23 @@
 [
 	{
-		"name": "FNOS",
+		"name": "Letts",
 		"year": 2026,
-		"image": "https://nasicon.top/icon/feiniu%E9%A3%9E%E7%89%9Bfnnas.jpg",
-		"url": "https://fnos.724782.xyz:1977",
-		"description": "FNOS",
+		"image": "blob:https://www.221107.xyz/85e92990-aa38-4a97-93cf-16b5b9ae1a8a",
+		"url": "https://tts.724782.xyz:1977",
+		"description": "docker版的tts,开发于2026年",
 		"tags": [
-			"NasApp"
+			"Letts"
 		]
 	},
 	{
-		"name": "lucky",
+		"name": "混元",
 		"year": 2026,
-		"image": "https://nasicon.top/icon/icon-Lucky-2.26.2-x86.png",
-		"url": "https://lucky.724782.xyz:1977",
-		"description": "lucky",
+		"image": "blob:https://www.221107.xyz/8be31e2f-acf8-4a3a-8102-2db59a449a34",
+		"url": "https://hunyuan.724782.xyz:1977",
+		"description": "AI统一网关，开发于2026年",
 		"tags": [
-			"NasApp"
-		]
-	},
-	{
-		"name": "Openlist",
-		"year": 2026,
-		"image": "https://nasicon.top/icon/icon-OpenList-4.1.9-x86-1767612700386.png",
-		"url": "https://alist.724782.xyz:1977",
-		"description": "openlist",
-		"tags": [
-			"NasApp"
-		]
-	},
-	{
-		"name": "Komga",
-		"year": 2026,
-		"image": "https://nasicon.top/icon/Komga_A.png",
-		"url": "https://komga.724782.xyz:1977",
-		"description": "漫画服务器",
-		"tags": [
-			"NasApp"
-		]
-	},
-	{
-		"name": "qiandao",
-		"year": 2026,
-		"image": "https://nasicon.top/icon/Qiandao_A.png",
-		"url": "https://qiandao.724782.xyz:1977",
-		"description": "qiandao",
-		"tags": [
-			"NasApp"
-		]
-	},
-	{
-		"name": "落雪音乐",
-		"year": 2026,
-		"image": "https://lxmusic.724782.xyz:1977/icon.svg",
-		"url": "https://lxmusic.724782.xyz:1977",
-		"description": "落雪音乐WEB版",
-		"tags": [
-			"NasApp"
-		]
-	},
-	{
-		"name": "WsScrcpy",
-		"year": 2026,
-		"image": "https://nasicon.top/icon/com.appostrophe.scrl.png",
-		"url": "https://scrcpy.724782.xyz:1977",
-		"description": "scrcpy的web版",
-		"tags": [
-			"NasApp"
-		]
+			"hunyuan"
+		],
+		"github": "https://github.com/users/yl-zha/packages/container/package/hunyuan"
 	}
 ]
