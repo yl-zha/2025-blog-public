@@ -1,22 +1,22 @@
 [
 	{
-		"name": "Letts",
+		"name": "乐tts",
 		"year": 2026,
 		"image": "https://www.221107.xyz/images/Letts.png",
-		"url": "https://tts.724782.xyz:1977",
+		"url": "https://letts.724782.xyz:1977",
 		"description": "docker版的tts,开发于2026年",
 		"tags": [
 			"Letts"
 		]
 	},
 	{
-		"name": "混元",
+		"name": "乐API",
 		"year": 2026,
 		"image": "https://www.221107.xyz/images/share/hunyuan (2).ico",
-		"url": "https://hunyuan.724782.xyz:1977",
+		"url": "https://lele.724782.xyz:1977/webui/login",
 		"description": "AI统一网关，开发于2026年",
 		"tags": [
-			"hunyuan"
+			"leapi"
 		],
 		"github": "https://github.com/users/yl-zha/packages/container/package/hunyuan"
 	}
