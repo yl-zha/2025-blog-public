@@ -56,9 +56,9 @@
 	},
 	{
 		"name": "TTS",
-		"logo": "/images/share/mcp_context7.png",
-		"url": "https://tts.724782.xyz:1977",
-		"internalUrl": "http://192.168.8.5:8786/",
+		"logo": "images/Letts.png",
+		"url": "https://letts.724782.xyz:1977",
+		"internalUrl": "http://192.168.8.5:3211/",
 		"description": "",
 		"tags": [
 			"Nas App"
@@ -79,7 +79,7 @@
 	{
 		"name": "混元太极",
 		"logo": "/images/share/hunyuan (2).ico",
-		"url": "http://724782.xyz:18800/webui",
+		"url": "https://leapi.724782.xyz:1977/webui",
 		"internalUrl": "http://192.168.8.5:8801/webui",
 		"description": "",
 		"tags": [
