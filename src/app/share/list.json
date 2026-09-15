@@ -79,8 +79,8 @@
 	{
 		"name": "乐API",
 		"logo": "/images/share/hunyuan (2).ico",
-		"url": "https://leapi.724782.xyz:1977/webui",
-		"internalUrl": "http://192.168.8.5:8801/webui",
+		"url": "https://leapi.724782.xyz:1977",
+		"internalUrl": "http://192.168.8.5:8866",
 		"description": "",
 		"tags": [
 			"Nas App"
