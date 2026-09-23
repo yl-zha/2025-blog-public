@@ -492,5 +492,82 @@
 			"收藏"
 		],
 		"stars": 3
+	},
+	{
+		"name": "智谱",
+		"logo": "https://static.bigmodel.cn/wd-paas-front/img/zcode-promo-logo.14c19e57.png",
+		"url": "https://bigmodel.cn/console/overview",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"收藏"
+		],
+		"stars": 3
+	},
+	{
+		"name": "硅基流动",
+		"logo": "https://account.siliconflow.cn/favicon.ico",
+		"url": "https://account.siliconflow.cn/zh/login",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"收藏"
+		],
+		"stars": 3
+	},
+	{
+		"name": "DeepSeek",
+		"logo": "https://www.deepseek.com/favicon.ico",
+		"url": "https://platform.deepseek.com/usage",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"收藏"
+		],
+		"stars": 3
+	},
+	{
+		"name": "新疆幻城",
+		"logo": "https://api.hcnsec.cn/favicon.ico",
+		"url": "https://api.hcnsec.cn/sign-in?redirect=%2Fprofile",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"收藏"
+		],
+		"stars": 3
+	},
+	{
+		"name": "日日新（商汤）",
+		"logo": "https://www.sensenova.cn/favicon.ico",
+		"url": "https://platform.sensenova.cn/console",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"收藏"
+		],
+		"stars": 3
+	},
+	{
+		"name": "workbuddy",
+		"logo": "https://download.codebuddy.cn/web/website/1477143690fcf9cafc68e887a9bbd8abf51c2716/assets/user-1-Dxr25PWV.svg",
+		"url": "https://www.codebuddy.cn/profile/plans-usage",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"收藏"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Agnes",
+		"logo": "https://platform.agnes-ai.cn/favicon.ico",
+		"url": "https://platform.agnes-ai.cn/settings/apiKeys",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"收藏"
+		],
+		"stars": 3
 	}
 ]
