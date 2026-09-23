@@ -99,13 +99,13 @@
 		"stars": 3
 	},
 	{
-		"name": "mangamillion",
+		"name": "ManGaMillion",
 		"logo": "https://mangamillion.shueisha.co.jp/favicon.ico",
 		"url": "https://mangamillion.shueisha.co.jp/zh-CN/manga-list",
 		"internalUrl": "",
 		"description": "",
 		"tags": [
-			"Nas App"
+			"收藏"
 		],
 		"stars": 3
 	},
@@ -336,7 +336,7 @@
 		"url": "https://longcat.chat/platform/usage",
 		"description": "1",
 		"tags": [
-			"收藏"
+			"AI"
 		],
 		"stars": 3
 	},
@@ -500,7 +500,7 @@
 		"internalUrl": "",
 		"description": "",
 		"tags": [
-			"收藏"
+			"AI"
 		],
 		"stars": 3
 	},
@@ -511,7 +511,7 @@
 		"internalUrl": "",
 		"description": "",
 		"tags": [
-			"收藏"
+			"AI"
 		],
 		"stars": 3
 	},
@@ -522,7 +522,7 @@
 		"internalUrl": "",
 		"description": "",
 		"tags": [
-			"收藏"
+			"AI"
 		],
 		"stars": 3
 	},
@@ -533,7 +533,7 @@
 		"internalUrl": "",
 		"description": "",
 		"tags": [
-			"收藏"
+			"AI"
 		],
 		"stars": 3
 	},
@@ -544,7 +544,7 @@
 		"internalUrl": "",
 		"description": "",
 		"tags": [
-			"收藏"
+			"AI"
 		],
 		"stars": 3
 	},
@@ -555,7 +555,7 @@
 		"internalUrl": "",
 		"description": "",
 		"tags": [
-			"收藏"
+			"AI"
 		],
 		"stars": 3
 	},
@@ -566,7 +566,62 @@
 		"internalUrl": "",
 		"description": "",
 		"tags": [
+			"AI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "ManGaMillion",
+		"logo": "https://mangamillion.shueisha.co.jp/favicon.ico",
+		"url": "https://mangamillion.shueisha.co.jp/zh-CN/manga-list",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
 			"收藏"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Moss API",
+		"logo": "https://platform.mosi.cn/favicon.ico",
+		"url": "https://platform.mosi.cn/",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"AI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "阶跃星辰",
+		"logo": "https://www.stepfun.com/assets/logo-B0FsyLQP.svg",
+		"url": "https://studio.stepfun.com/",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"AI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "小红书AI",
+		"logo": "https://dots.ai/favicon.ico",
+		"url": "https://dots.ai/platform/usage",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"AI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "SenseAudio",
+		"logo": "https://senseaudio.cn/favicon.ico",
+		"url": "https://senseaudio.cn/login?from=%2Fworkspace%2Fclone-sound",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"AI"
 		],
 		"stars": 3
 	}
