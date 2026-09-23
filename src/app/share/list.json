@@ -99,17 +99,6 @@
 		"stars": 3
 	},
 	{
-		"name": "ManGaMillion",
-		"logo": "https://mangamillion.shueisha.co.jp/favicon.ico",
-		"url": "https://mangamillion.shueisha.co.jp/zh-CN/manga-list",
-		"internalUrl": "",
-		"description": "",
-		"tags": [
-			"收藏"
-		],
-		"stars": 3
-	},
-	{
 		"name": "政府定点采购网",
 		"logo": "https://nasicon.top/icon/Busybox--BusyBox--busybox.net.png",
 		"url": "https://wssc.hbggzy.cn/home",
@@ -567,17 +556,6 @@
 		"description": "",
 		"tags": [
 			"AI"
-		],
-		"stars": 3
-	},
-	{
-		"name": "ManGaMillion",
-		"logo": "https://mangamillion.shueisha.co.jp/favicon.ico",
-		"url": "https://mangamillion.shueisha.co.jp/zh-CN/manga-list",
-		"internalUrl": "",
-		"description": "",
-		"tags": [
-			"收藏"
 		],
 		"stars": 3
 	},
