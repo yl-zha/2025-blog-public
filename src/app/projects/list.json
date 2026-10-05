@@ -7,7 +7,8 @@
 		"description": "docker版的tts,开发于2026年",
 		"tags": [
 			"Letts"
-		]
+		],
+		"github": "https://github.com/users/yl-zha/packages/container/package/letts"
 	},
 	{
 		"name": "乐API",
