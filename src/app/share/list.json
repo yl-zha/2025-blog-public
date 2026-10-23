@@ -602,5 +602,60 @@
 			"AI"
 		],
 		"stars": 3
+	},
+	{
+		"name": "CNB",
+		"logo": "https://cnb.cool/favicon.ico",
+		"url": "https://cnb.cool/724782.xyz/moting-voice-materials-20261009",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"AI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "悦读",
+		"logo": "https://app.readifyai.com/favicon.ico",
+		"url": "https://app.readifyai.com/library/libraryFindBooks",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"AI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "QQ开放平台",
+		"logo": "https://q.qq.com/favicon.ico",
+		"url": "https://q.qq.com/#/",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"AI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "模力方舟（Gitee AI）",
+		"logo": "https://ai.gitee.com/favicon.ico",
+		"url": "https://ai.gitee.com/qywnwlmv/dashboard/serverless?resource=36256",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"AI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "songloft插件",
+		"logo": "https://songloft-store.lllh.de/favicon.svg",
+		"url": "https://songloft-store.lllh.de",
+		"internalUrl": "",
+		"description": "",
+		"tags": [
+			"收藏"
+		],
+		"stars": 3
 	}
 ]
